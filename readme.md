@@ -45,7 +45,7 @@
 <td width="50%">
 <h3 align="center">🛍️ PLN Vendas com I.A</h3>
 <p>
-<a href="#" target="_blank">
+<a href="https://github.com/oGhostWarrior/DashboardVendas" target="_blank">
 <img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/>
 </a>
 <a href="#" target="_blank">
