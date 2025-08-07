@@ -19,19 +19,9 @@
 
 ---
 
-## 📈 Estatísticas GitHub
-
-![oghostwarrior](https://github-readme-streak-stats.herokuapp.com/?user=oghostwarrior&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vianawill&layout=compact&theme=tokyonight)
-
----
-
 ## 🛠 Projetos em Destaque
 
-<!-- 📌 [**Controle de Frotas (AlfaID)**]([https://github.com/vianawill/VIANAforms](https://github.com/vianawill/Rdo---29.04.git))  
-
-
-<!-- Adicione outros projetos fixados aqui se quiser -->
+<!-- 📌 [**Controle de Frotas (AlfaID)**]([https://github.com/vianawill/VIANAforms](https://github.com/vianawill/Rdo---29.04.git))-->
 
 <table>
 <tr>
@@ -87,6 +77,14 @@
 </td>
 </tr>
 </table>
+
+---
+
+## 📈 Estatísticas GitHub
+
+![oghostwarrior](https://github-readme-streak-stats.herokuapp.com/?user=oghostwarrior&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vianawill&layout=compact&theme=tokyonight)
+
 
 ## 📫 Como me encontrar
 
