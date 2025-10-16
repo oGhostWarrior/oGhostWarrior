@@ -45,16 +45,17 @@
 <td width="50%">
 <h3 align="center">🛍️ PLN Vendas com I.A</h3>
 <p>
-<a href="https://github.com/oGhostWarrior/DashboardVendas" target="_blank">
+<a href="https://github.com/oGhostWarrior/AXON" target="_blank">
 <img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://axon-q446.onrender.com/" target="_blank">
+<a href="https://axon-web.onrender.com/" target="_blank">
 <img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge&logo=vercel"/>
 </a>
 </p>
 <p align="left">
 • Gestão de Equipe de Vendas<br>
 • Analise de conversas com I.A<br>
+• Assistencia de I.A para Vendedor<br>
 • Autenticação Baseada em Papéis
 </p>
 </div>
