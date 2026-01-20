@@ -75,7 +75,6 @@
 • Cadastro: Produtos, Clientes, Insumos<br>
 • Autenticação, Relatorios, Estoque.
 </p>
-</div>
 <tr>
 <td width="50%">
 <h3 align="center">💸 Saude Financeira </h3>
