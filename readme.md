@@ -66,7 +66,7 @@
 <a href="https://github.com/oGhostWarrior/figureslab3d" target="_blank">
 <img src="https://img.shields.io/badge/View_on_GitHub-2ea44f?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://figureslab.infy.uk/" target="_blank">
+<a href="https://figureslab3d.infy.uk/" target="_blank">
 <img src="https://img.shields.io/badge/Live_Demo-brightgreen?style=for-the-badge&logo=vercel"/>
 </a>
 </p>
